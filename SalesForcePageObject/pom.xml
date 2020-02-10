@@ -65,11 +65,13 @@
   <!-- https://mvnrepository.com/artifact/info.cukes/cucumber-testng -->
 
   
-    <dependency>
-			<groupId>junit</groupId>
-			<artifactId>junit</artifactId>
-			<version>4.12</version>
-		</dependency>
+    <!-- https://mvnrepository.com/artifact/junit/junit-dep -->
+<dependency>
+    <groupId>junit</groupId>
+    <artifactId>junit-dep</artifactId>
+    <version>4.8.2</version>
+    
+</dependency>
     <dependency>
         <groupId>org.seleniumhq.selenium</groupId>
         <artifactId>selenium-java</artifactId>
