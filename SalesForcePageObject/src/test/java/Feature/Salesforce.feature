@@ -54,7 +54,7 @@ Examples:
 |LoginPage |UserName	|Msg	|
 |Login \| Salesforce	|anitham2u@gmail.com	|We’ve sent you an email with a link to finish resetting your password.	|
 
-@SmokeTest
+
 Scenario Outline: Login To SalesForce
 Given : Launch the URL 
 Then : Validate the Page "<LoginPage>"
