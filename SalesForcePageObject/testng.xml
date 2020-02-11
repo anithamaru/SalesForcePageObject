@@ -3,8 +3,8 @@
 <suite name="Suite">
   <test  name="Test">
     <classes>
-      <class name="StepDefinition.StepDefinition"/>
-      <class name="salesforce.SalesForcePageObject.AppTest"/>
+      <class name="TestRunner.SaleforceRunner"/>
+      
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
